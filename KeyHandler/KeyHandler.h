@@ -101,17 +101,17 @@ namespace KeyHandler
 		KEY_ALT,
 		KEY_ALTGR,
 		KEY_MUTE = 173,
-		KEY_Ü = 186,
+		KEY_Ãœ = 186,
 		KEY_PLUS,
 		KEY_COMMA,
 		KEY_MINUS,
 		KEY_DOT,
 		KEY_RUE,
-		KEY_Ö,
+		KEY_Ã–,
 		KEY_BACKSLAH = 219,
 		KEY_ROOF, // ^
-		KEY_GAY, // "´" and  "`"
-		KEY_Ä,
+		KEY_GAY, // "Â´" and  "`"
+		KEY_Ã„,
 		KEY_MAX = 255,
 	};
 
